@@ -1,0 +1,1 @@
+Creating a basic calculator with HTML, CSS, and JavaScript requires an interactive interface to perform addition, subtraction, multiplication, and division. A display shows inputs and results, while CSS Grid aligns buttons. EventListeners, operators, if-else statements, and loops make it fully functional.
